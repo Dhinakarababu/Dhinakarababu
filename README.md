@@ -30,10 +30,10 @@
 
 ## 💻 Workspace Spec
 - **OS:** Windows 11 Pro  
-- **Laptop:** HP Elitebook 845 G7  
-- **Processor:** Ryzen 5 PRO 4650U  
+- **Laptop:** Dell Latitude 5420  
+- **Processor:** Intel Core i7  
 - **RAM:** 16 GB  
-- **Storage:** 256 GB SSD  
+- **Storage:** 512 GB SSD  
 
 ---
 
