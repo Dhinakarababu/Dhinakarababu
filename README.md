@@ -38,10 +38,10 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhinakarababu&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinakarababu&layout=compact&theme=tokyonight)  
 
 ---
 
-⭐️ From [Dhinakarababu R](https://github.com/Dhinakarababu)
+⭐️ From [Dhinakarababu R](https://[github.com/Dhinakarababu](https://github.com/Dhinakarababu))
